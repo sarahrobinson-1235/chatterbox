@@ -58,3 +58,6 @@ end
 gem "http"
 gem "rack-cors"
 gem "jb"
+gem 'bootstrap-sass', '~> 3.3.6'
+gem 'sass-rails', '>= 3.2'
+gem 'jquery-rails'
